@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "npm": "^8.19.2"
+  },
+  "name": "csv-chip-0007-compatible-json",
+  "description": "This program takes a provided CSV, and generates a CHIP-0007 compatible JSON, calculates the sha256 of the JSON file, and appends it to each line in the csv (as a filename.output.csv)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anajembaedwin/CSV-CHIP-0007-compatible-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anajembaedwin/CSV-CHIP-0007-compatible-json/issues"
+  },
+  "homepage": "https://github.com/anajembaedwin/CSV-CHIP-0007-compatible-json#readme"
+}
